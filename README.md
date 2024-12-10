@@ -22,6 +22,10 @@ This project implements conditional image generation for the CIFAR-100 dataset u
 
 The CIFAR-100 dataset consists of 60,000 32x32 color images in 100 classes. This project focuses on conditional image generation using SNGAN architecture, developed as part of the Learning Vision Intelligence (LVI) course.
 
+## Acknowledgments
+
+This implementation is based on the SNGAN architecture from the repository [SNGAN_Projection](https://github.com/neuralchen/SNGAN_Projection) by Chen Wang. We express our gratitude to the original authors for making their code available open source.
+
 ## Getting Started
 
 ### Prerequisites
