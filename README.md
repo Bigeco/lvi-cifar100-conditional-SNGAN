@@ -126,16 +126,13 @@ This project was developed collaboratively by:
 ### Team Leader
 - **Park Jihye**
   - GitHub: [@park-ji-hye](https://github.com/park-ji-hye)
-  - Role: TBD
 
 - **Song Daeun**
   - GitHub: [@Song-Daeun](https://github.com/Song-Daeun)
-  - Role: TBD
 
 ### Team Member
 - **Lee Songeun**
   - GitHub: [@bigeco](https://github.com/bigeco)
-  - Role: TBD
 
 ## License
 
