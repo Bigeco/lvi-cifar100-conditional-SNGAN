@@ -45,10 +45,15 @@ For a complete list of dependencies, please refer to requirements.txt.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/lvi-cifar100-conditional-SNGAN.git
+   git clone https://github.com/Bigeco/lvi-cifar100-conditional-SNGAN.git
    cd lvi-cifar100-conditional-SNGAN
    ```
-
+2. Set up the Conda environment:
+   ```sh
+   conda create -n sngan python=3.11.7
+   conda activate sngan
+   ```
+   
 2. Install the required packages:
    ```sh
    pip install -r requirements.txt
@@ -57,17 +62,12 @@ For a complete list of dependencies, please refer to requirements.txt.
 3. Set up Jupyter environment:
    ```sh
    # Create a new kernel
-   python -m ipykernel install --user --name lvi-cifar100-sngan --display-name "LVI CIFAR-100 SNGAN"
-   
-   # Launch Jupyter Notebook
-   jupyter notebook
+   python3 -m ipykernel install --user --name sngan --display-name "Python (lvi-cifar100-sngan)"
    ```
 
 4. In Jupyter Notebook:
    - Open your notebook
-   - Click on "Kernel" in the menu
-   - Select "Change kernel"
-   - Choose "LVI CIFAR-100 SNGAN"
+   - In the top-right corner of the notebook, select the kernel "Python (lvi-cifar100-sngan)" manually.
 
 ### Random Seed
 
