@@ -8,6 +8,7 @@ This project implements conditional image generation for the CIFAR-100 dataset u
 ## Table of Contents
 
 - [Overview](#overview)
+- [Acknowledgments](#acknowledgments)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
