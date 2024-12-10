@@ -1,6 +1,6 @@
 # (LVI) CIFAR-100 Conditional Image Generation with SNGAN
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.11+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-3117/)
+[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/release/python-3117/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 
 This project implements conditional image generation for the CIFAR-100 dataset using Spectral Normalization GAN (SNGAN). It was developed as part of the Learning Vision Intelligence (LVI) course project.
